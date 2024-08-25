@@ -54,3 +54,4 @@ export const InitCommands = async (client) => {
 
     Logger.log('info', 'Finished initializing commands.');
 }
+   
